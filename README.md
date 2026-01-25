@@ -20,5 +20,5 @@ Java & Web Developer focused on building scalable backend systems and clean web 
 
 ## ▸ Connect 🔗
 ▸ GitHub: https://github.com/Haridas25052003  
-▸ LinkedIn: https://www.linkedin.com/in/YOUR-LINK  
+▸ LinkedIn: https://www.linkedin.com/in/haridas-shinde-113971235/
 ▸ Portfolio: https://haridas-portfolio.vercel.app
