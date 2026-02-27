@@ -1,24 +1,26 @@
 # Hi, I'm Haridas Shinde 👋
 
-Java & Web Developer focused on building scalable backend systems and clean web applications.
+**Java & Web Developer** Focusing on high-performance backend systems and clean architecture.
 
 ---
 
-## ▸ Tech Stack ⚙️
-▸ Java ▸ Spring Boot ▸ Hibernate ▸ JDBC  
-▸ SQL ▸ MySQL ▸ Oracle  
-▸ HTML ▸ CSS ▸ JavaScript  
-▸ Maven ▸ Git ▸ Eclipse ▸ VS Code  
+### 💻 Expertise Overview
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | Java • Servlets • JSP • Spring Boot • Hibernate |
+| **Database** | **Amazon DynamoDB** • MySQL • Oracle |
+| **Web** | HTML5 • CSS3 • JavaScript • REST APIs |
+| **DevOps** | Git • Maven • System Design |
 
 ---
 
-## ▸ Currently Focused 🎯
-▸ Advanced Java & backend architecture  
-▸ REST APIs & system design  
+### 🚀 What I'm Doing Now
+I am currently deep-diving into **DynamoDB** data modeling and modernizing legacy **Springboot** workflows into scalable microservices.
 
 ---
 
-## ▸ Connect 🔗
-▸ GitHub: https://github.com/Haridas25052003  
-▸ LinkedIn: https://www.linkedin.com/in/haridas-shinde-113971235/
-▸ Portfolio: https://haridas-portfolio.vercel.app
+### 🔗 Digital Presence
+[LinkedIn](https://www.linkedin.com/in/haridas-shinde-113971235/) ⚪ [Portfolio](https://haridas-portfolio.vercel.app) ⚪ [Contact](mailto:your-email@example.com)
+
+---
